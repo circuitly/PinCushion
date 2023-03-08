@@ -1356,7 +1356,7 @@
   (symbol (lib_id "symbols:PinLengths") (at 194.945 149.86 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 415878dc-1d5e-448e-8e04-df0e5d096ef7)
-    (property "Reference" "U?" (id 0) (at 191.135 160.02 0))
+    (property "Reference" "U11" (id 0) (at 191.135 160.02 0))
     (property "Value" "" (id 1) (at 191.135 157.48 0))
     (property "Footprint" "" (id 2) (at 182.88 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -1424,7 +1424,7 @@
   (symbol (lib_name "PinLengths_1") (lib_id "symbols:PinLengths") (at 110.49 132.08 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 5271bf79-264b-4a63-8389-35fabf857755)
-    (property "Reference" "U?" (id 0) (at 125.095 134.6199 90)
+    (property "Reference" "U10" (id 0) (at 125.095 134.6199 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "" (id 1) (at 125.095 137.1599 90)
@@ -1545,7 +1545,7 @@
   (symbol (lib_id "symbols:PinLengths") (at 222.885 142.24 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 96536b7b-7f39-4027-a516-d77fe63257c0)
-    (property "Reference" "U?" (id 0) (at 226.695 132.08 0))
+    (property "Reference" "U12" (id 0) (at 226.695 132.08 0))
     (property "Value" "" (id 1) (at 226.695 134.62 0))
     (property "Footprint" "" (id 2) (at 234.95 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -1779,14 +1779,14 @@
     (path "/f1aeb88f-5f89-4537-86d8-f06e86582872"
       (reference "U9") (unit 1) (value "PinLengths") (footprint "")
     )
-    (path "/415878dc-1d5e-448e-8e04-df0e5d096ef7"
-      (reference "U?") (unit 1) (value "PinLengths") (footprint "")
-    )
     (path "/5271bf79-264b-4a63-8389-35fabf857755"
-      (reference "U?") (unit 1) (value "PinLengths") (footprint "")
+      (reference "U10") (unit 1) (value "PinLengths") (footprint "")
+    )
+    (path "/415878dc-1d5e-448e-8e04-df0e5d096ef7"
+      (reference "U11") (unit 1) (value "PinLengths") (footprint "")
     )
     (path "/96536b7b-7f39-4027-a516-d77fe63257c0"
-      (reference "U?") (unit 1) (value "PinLengths") (footprint "")
+      (reference "U12") (unit 1) (value "PinLengths") (footprint "")
     )
   )
 )
